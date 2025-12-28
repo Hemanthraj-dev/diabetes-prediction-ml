@@ -31,10 +31,10 @@ pip install pandas scikit-learn matplotlib seaborn
 python diabetes_prediction.py
 ```
 
-## 📝 Key Learnings
+## Key Learnings
 Data preprocessing took 70% of the project time. Real-world data requires extensive cleaning before modeling.
 
-## 🔮 Future Improvements
+## Future Improvements
 - Try Random Forest for better accuracy
 - Tune decision threshold to reduce false negatives
 - Implement cross-validation
